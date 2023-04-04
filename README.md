@@ -4,6 +4,12 @@
 
 ----
 
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?py,html,css,dotnet,cs,mysql,git,visualstudio,github,powershell,stackoverflow)](https://skillicons.dev)
+
+----
+
 ### :bell: Connect with me :
 
 [![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YevheniiLi)
