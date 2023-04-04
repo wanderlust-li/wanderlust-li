@@ -21,4 +21,3 @@
 ### :fire: My Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanderlust-li&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanderlust-li&theme=github_dark)
