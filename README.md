@@ -6,7 +6,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,dotnet,cs,mysql,git,visualstudio,github,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,dotnet,cs,mysql,py,stackoverflow,git,github,visualstudio,vscode)](https://skillicons.dev)
 
 ----
 
