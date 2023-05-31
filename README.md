@@ -14,7 +14,6 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YevheniiLi)
 [![Twitter](https://img.shields.io/badge/twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wanderlust_li?s=21)
-[![Djinni](https://img.shields.io/badge/djinni-1E90FF?style=for-the-badge&logo=djinni&logoColor=white)](https://djinni.co/q/e9e0d6955f/)
 
 ----
 
