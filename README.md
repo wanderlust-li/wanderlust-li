@@ -1,19 +1,32 @@
-<h1 align="center">Hi there, I'm Yevhenii Lichman</h1>
-<h3 align="center">Computer Engineering student from Ukraine <img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/></h3> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1E00F7&width=900&lines=Hi+there%2C+I'm+Yevhenii+Lichman.++Computer+Engineering+student+from+Ukraine)](https://git.io/typing-svg)
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,dotnet,cs,js,ts,nodejs,react,vue,mysql,py,git,github,visualstudio,vscode)](https://skillicons.dev)
+ ### Languages and Tools:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### :bell: Connect with me :
+### Socials:
 
-[![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YevheniiLi)
-[![Twitter](https://img.shields.io/badge/twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wanderlust_li?s=21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-lichman-6a395a242)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yevhenii-lichman-6a395a242)
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/YevheniiLi)
 
 ---
 
