@@ -31,7 +31,7 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 ---
 
