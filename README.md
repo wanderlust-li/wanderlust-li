@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1E00F7&width=900&lines=Hi+there%2C+I'm+Yevhenii+Lichman.++Computer+Engineering+student+from+Ukraine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1E00F7&width=980&lines=Hi+there%2C+I'm+Yevhenii+Lichman.++I+am+currently+working+as+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
