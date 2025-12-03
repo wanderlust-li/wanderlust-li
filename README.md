@@ -29,5 +29,4 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wanderlust-li&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wanderlust-li&show_icons=true&theme=tokyonight&hide_border=true)
