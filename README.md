@@ -19,10 +19,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yevhenii-lichman-6a395a242)
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/YevheniiLi)
 
----
-
-### My Stats :
-
----
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wanderlust-li&show_icons=true&theme=tokyonight&hide_border=true)
